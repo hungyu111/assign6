@@ -1,3 +1,4 @@
+
 class Fighter {
   PImage fighterImg;
   int x = 0;
